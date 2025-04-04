@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminationSystem", "TerminationSystem\TerminationSystem.csproj", "{9788D83D-5317-4744-B4AA-6707D7685AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9788D83D-5317-4744-B4AA-6707D7685AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9788D83D-5317-4744-B4AA-6707D7685AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9788D83D-5317-4744-B4AA-6707D7685AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9788D83D-5317-4744-B4AA-6707D7685AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
